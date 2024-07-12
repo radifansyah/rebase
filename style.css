@@ -9,3 +9,6 @@ body {
 div {
   list-style-type: square;
 }
+.p {
+  background-color: blue;
+}
